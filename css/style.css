@@ -52,6 +52,11 @@ Tags: responsive, html5 template, one page, startup, business, company, corporat
 /*	 Preload Animation 
 /*------------------------------------------*/
 
+#colorw{
+	color: #fff;
+	font-weight: bold;
+
+}
 #preloader{
 	position: fixed;
 	top: 0;
