@@ -1486,7 +1486,8 @@ nav a#pull {
 
  }
  .pad{
- 	padding: 7px 25px;
+ 	padding: 7px 35px;
  	margin: 0px 10px;
+ 	width: 120%;
  }
 

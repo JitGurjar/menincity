@@ -106,7 +106,8 @@
 	#what-we-do, #features, #quotes, #clients, #banner, #screens, #partners, #pricing, #pricing-faq, #faq { padding-left: 45px; padding-right: 45px;}
 	.breadcrumb { padding: 10px 15px; }
 	#pricing-table-holder  { margin-right: 60px; margin-left: 60px;}
-	#footer_copy { padding-left: 45px; }
+	#footer_copy { padding-left: 45px;
+	width: 20%; }
 	#footer_icons { padding-right: 45px; }
 	#what-we-do, #banner, #pricing, #faq { padding-top: 30px; }
 
