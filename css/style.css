@@ -1355,6 +1355,7 @@ textarea {
 #footer {
 	background-color: #1A1E23;
 	padding: 15px 0 10px;
+	
 }   
 
 /*------------------------------------------*/
@@ -1378,10 +1379,11 @@ textarea {
 
 .footer-socials {
 	display: inline-block; 
+	float: right;
 }
 
 .footer-socials li {
-	float: left;
+	float: right;
 	width: auto !important;
     display: inline-block !important;
     vertical-align: top;
@@ -1475,5 +1477,16 @@ textarea {
 nav a#pull {  
     display: none;  
 } 
+ 
+ .in_line
+ {
+ 	display: inline-block;
+ 	direction: ltr;
 
+
+ }
+ .pad{
+ 	padding: 7px 25px;
+ 	margin: 0px 10px;
+ }
 
