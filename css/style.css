@@ -1379,7 +1379,6 @@ textarea {
 
 .footer-socials {
 	display: inline-block; 
-	float: right;
 }
 
 .footer-socials li {
@@ -1480,7 +1479,7 @@ nav a#pull {
  
  .in_line
  {
- 	display: inline-block;
+ 	display: -webkit-inline-box;
  	direction: ltr;
 
 
